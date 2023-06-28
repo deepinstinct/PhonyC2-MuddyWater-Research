@@ -1,0 +1,34 @@
+Type,IP Address  ,Description 
+IP,45.159.248[.]244 ,PhonyC2 V6 (PaperCut) 
+IP,91.121.240[.]104 ,"""apiy7"" PhonyC2 with ETag 2aa6-5c939a3a79153 (log4j) "
+IP,195.20.17[.]44 ,Suspected as PhonyC2 V7 
+IP,45.86.230[.]20 ,MuddyWater infrastructure related to PhonyC2 activity (DarkBit Technion) 
+IP,137.74.131[.]30 ,"""apiy7"" PhonyC2 with ETag 2aa6-5c939a3a79153 "
+IP,178.32.30[.]3 ,"""apiy7"" PhonyC2 "
+IP,137.74.131[.]24 ,"""apiv4"" and/or ""apiy7"" PhonyC2 with ETag 2aa6-5c939a3a79153 "
+IP,46.249.35[.]243 ,PhonyC2 V6 (DarkBit Technion) 
+IP,185.254.37[.]173 ,PhonyC2 V6 (PaperCut) 
+IP,194.61.121[.]86 ,PhonyC2 V6 (DarkBit Technion) 
+IP,87.236.212[.]22 ,Suspected first version of PhonyC2 
+IP,91.235.234[.]130 ,PhonyC2 V6.zip 
+IP,157.90.153[.]60 ,"""apiv4"" PhonyC2 "
+IP,157.90.152[.]26 ,"""apiv4"" PhonyC2 "
+IP,65.21.183[.]238 ,"""apiv4"" PhonyC2 "
+IP,45.132.75[.]101 ,Suspected MuddyWater infrastructure (edc1.6nc051221c[.]co) 
+IP,51.255.19[.]178  ,Suspected MuddyWater infrastructure (pru2.6nc110821hdb[.]co) 
+IP,103.73.65[.]129  ,Suspected MuddyWater infrastructure (nno1.6nc060821[.]co) 
+IP,103.73.65[.]225  ,Suspected MuddyWater infrastructure (nno3.6nc060821[.]co) 
+IP,103.73.65[.]244  ,Suspected MuddyWater infrastructure (kwd1.6nc220721[.]co) 
+IP,103.73.65[.]246 ,Suspected MuddyWater infrastructure (kwd2.6nc220721[.]co) 
+IP,103.73.65[.]253 ,Suspected MuddyWater infrastructure (kwd3.6nc220721[.]co) 
+IP,137.74.131[.]16  ,Suspected MuddyWater infrastructure (qjk1.6nc051221c[.]co) 
+IP,137.74.131[.]18  ,Suspected MuddyWater infrastructure (qjk2.6nc051221c[.]co) 
+IP,137.74.131[.]25 ,Suspected MuddyWater infrastructure (qjk3.6nc051221c[.]co) 
+IP,164.132.237[.]67  ,Suspected MuddyWater infrastructure (tes2.6nc051221a[.]co) 
+IP,164.132.237[.]79 ,Suspected MuddyWater infrastructure (pru1.6nc110821hdb[.]co) 
+SHA256,7cb0cc6800772e240a12d1b87f9b7561412f44f01f6bb38829e84acbc8353b9c ,db.ps1 
+SHA256,5ca26988b37e8998e803a95e4e7e3102fed16e99353d040a5b22aa7e07438fea ,db.sqlite 
+SHA256,1c95496da95ccb39d73dbbdf9088b57347f2c91cf79271ed4fe1e5da3e0e542a ,utils.jse 
+SHA256,2f14ce9e4e8b1808393ad090289b5fa287269a878bbb406b6930a6c575d1f736 ,db.ps1 
+SHA256,b4b3c3ee293046e2f670026a253dc39e863037b9474774ead6757fe27b0b63c1 ,db.sqlite 
+SHA256,b38d036bbe2d902724db04123c87aeea663c8ac4c877145ce8610618d8e6571f ,utils.jse 
